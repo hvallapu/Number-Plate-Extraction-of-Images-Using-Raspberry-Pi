@@ -1,6 +1,6 @@
 # License Plate Recognition For Vehicles
 
-[![Travis](https://travis-ci.org/femioladeji/License-Plate-Recognition-Nigerian-vehicles.png)](https://travis-ci.org/femioladeji/License-Plate-Recognition-Nigerian-vehicles)
+[![Travis](https://travis-ci.org/femioladeji/Number-Plate-Extractio-of-images-using-Raspberry-Pi.png)](https://travis-ci.org/femioladeji/License-Plate-Recognition-Nigerian-vehicles)
 [![circleci](https://circleci.com/gh/femioladeji/License-Plate-Recognition-Nigerian-vehicles.png)](https://circleci.com/gh/femioladeji/License-Plate-Recognition-Nigerian-vehicles)
 
 ## **About**
